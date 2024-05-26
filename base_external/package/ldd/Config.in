@@ -1,0 +1,4 @@
+config BR2_PACKAGE_LDD
+	bool "ldd"
+	help
+	  For scull and misc-module kernel modules. LDD for assignment 7 part 2.
