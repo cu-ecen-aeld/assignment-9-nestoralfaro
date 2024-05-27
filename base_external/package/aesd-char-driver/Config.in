@@ -1,0 +1,4 @@
+config BR2_PACKAGE_AESD_CHAR_DRIVER
+	bool "AESD_CHAR_DRIVER"
+	help
+	  For AESD Char Driver. Assignment 8
