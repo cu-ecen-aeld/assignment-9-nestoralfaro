@@ -4,7 +4,7 @@
 #
 ################################################################################
 
-AESD_CHAR_DRIVER_VERSION = 'f73bf6655f3b146cd4ef7eabc341cf7f27e173e9'
+AESD_CHAR_DRIVER_VERSION = '2bded7335a367a8b9c439209fa0f8c05f0797318'
 AESD_CHAR_DRIVER_SITE = 'git@github.com:cu-ecen-aeld/assignments-3-and-later-nestoralfaro.git'
 AESD_CHAR_DRIVER_SITE_METHOD = git
 AESD_CHAR_DRIVER_GIT_SUBMODULES = YES
